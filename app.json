@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "reactNativeTutorial",
-    "slug": "reactNativeTutorial"
+    "slug": "reactNativeTutorial",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+  }
   }
 }
